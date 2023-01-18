@@ -1,12 +1,22 @@
-## Seja Bem Vindo!
+##  Seja Bem Vindo! 
 
-- 🌱 Atualmente estou estudando HTML5 e CSS3
+- 🌱 Atualmente estou estudando **HTML5** e **CSS3**
 
 <div>
   <a href="https://github.com/Aulucci">
   <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Aulucci&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aulucci&layout=compact&langs_count=7&theme=react" />
 
+  
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="javaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="LINUX" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+   <img align="center" alt="ALGORITMOS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/thealgorithms/thealgorithms-original-wordmark.svg">
+    
   
 </div>
   
