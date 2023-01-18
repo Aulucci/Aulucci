@@ -1,6 +1,6 @@
 <h1 align="center">Seja Bem Vindo!</h1> 
 
-<p align="center">- 🌱 Atualmente estou estudando <strong>HTML5</strong> e <strong>CSS3</strong> </p>
+<p>- 🌱 Atualmente estou estudando <strong>HTML5</strong> e <strong>CSS3</strong> </p>
 
 <div>
   <a href="https://github.com/Aulucci">
@@ -32,4 +32,4 @@
 </div>
 
 ##
-![snake animation](https://github.com/Aulucci/Aulucci/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/aulucci/Aulucci/blob/output/github-contribution-grid-snake.svg)
