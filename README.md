@@ -32,4 +32,4 @@
 </div>
 
 ##
-![Snake animation](https://github.com/Aulucci/Aulucci/blob/output/github-contribution-grid-snake.svg)
+
